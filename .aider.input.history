@@ -1,0 +1,50 @@
+
+# 2025-11-21 18:48:04.799768
++Code the following app
++```
++Title: Crypto Reminder Board
++
++Description:
++Create a simple app where users can write, save, and manage personal crypto-related reminders. The app must work fully offline and should not use the internet or external APIs. All reminders are entered manually by the user.
++
++Functionality:
++ • Display an input field labeled “New Reminder” where the user can type any reminder text.
++ • Include a button labeled “Add Reminder” that adds the new reminder to a visible list on the page.
++ • Below the input, show a section titled “Your Reminders” displaying all saved reminders in a simple list.
++ • Each reminder in the list should have a small “Delete” button next to it, allowing the user to remove it individually.
++ • Add a “Clear All” button that deletes all reminders at once.
++ • If the user tries to add an empty reminder, display a message:
++“Please enter a reminder before adding.”
++
++UI Requirements:
++ • Use only basic UI elements such as text fields, buttons, and lists.
++ • Layout should be clean, minimal, and easy to use.
++ • All interactions must update the reminder list instantly and locally.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-21 18:48:04.800217
++Code the following app
++```
++Title: Crypto Reminder Board
++
++Description:
++Create a simple app where users can write, save, and manage personal crypto-related reminders. The app must work fully offline and should not use the internet or external APIs. All reminders are entered manually by the user.
++
++Functionality:
++ • Display an input field labeled “New Reminder” where the user can type any reminder text.
++ • Include a button labeled “Add Reminder” that adds the new reminder to a visible list on the page.
++ • Below the input, show a section titled “Your Reminders” displaying all saved reminders in a simple list.
++ • Each reminder in the list should have a small “Delete” button next to it, allowing the user to remove it individually.
++ • Add a “Clear All” button that deletes all reminders at once.
++ • If the user tries to add an empty reminder, display a message:
++“Please enter a reminder before adding.”
++
++UI Requirements:
++ • Use only basic UI elements such as text fields, buttons, and lists.
++ • Layout should be clean, minimal, and easy to use.
++ • All interactions must update the reminder list instantly and locally.
++```
++
++Generate an app logo and update the app metadata title and description.
